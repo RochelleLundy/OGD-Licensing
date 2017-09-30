@@ -13,7 +13,13 @@ Attard, J., Orlandi, F., Scerri, S., &amp; Auer, S. (2015). A systematic review 
 
 Barry, E., &amp; Bannister, F. (2014). Barriers to open data release: A view from the top. _Information Polity, 19_(1-2), 129-152.
 
-- [**ADD**]
+- Examines view of barriers to open data release by interviewing Irish government officials and conducting documentary analysis - select Ireland because it has been relatively slow to open data in comparison to other European countries - compares these to barriers noted in literature, and creates a taxonomy of open data barriers
+- “Open data is one of those expressions that is often used without being defined...Even where it is defined, definitions are sometimes loose or vague.”
+- Review previous studies on open data barriers -- Look at: S. Martin, M. Foulonneau, S. Turki and M. Ihadjadene, open data: Barriers, Risks and Opportunities, in: Proceedings of the 13th European Conference on e-Government, E. Ferrari and W. Castelnovo, eds, Como, Italy, Reading, ACPI, 2013,pp. 301–309. (creates barrier category for licenses/legal framework & based on research in French & German cities)
+- Conducted interviews with managers in both national and local government agencies/authorities (“used a government agency as a proxy for central government”)
+- One category in resulting taxonomy of barriers is “Legal”, which includes “Legislation”, “Licensing”, and “Litigation & Liability” - note that legal barriers were much more frequently mentioned by national rather than local employees w/r/t opening data
+- With regard to “Litigation & Liability”, interviewees expressed that risk of data misuse or release of personal data could be mitigated by terms of use, but “[t]he main difficulty appeared to be around the terms and conditions of use and the difficulty in perpetuating these terms and conditions throughout a process which could include an unknown number of third parties.”
+- With regard to “Licensing”, interviewees expressed the need for “robust licensing”, but their primary concern was with agency liability more than user experience - authors describe as a “defensive” attitude toward opening government data
 
 Conradie, P. &amp; Choenni, S. (2014). On the barriers for local government releasing open data.  _Government Information Quarterly, 31_(1), S10-S17.
 
