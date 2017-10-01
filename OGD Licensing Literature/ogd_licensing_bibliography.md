@@ -3,7 +3,7 @@
 Alexopoulos, C., Spiliotopoulou, L., &amp; Charalabidis, Y. (2013, September). Open data movement in Greece: a case study on open government data sources. In _Proceedings of the 17th Panhellenic Conference on Informatics_(pp. 279-286). ACM.
 
 - [http://delivery.acm.org/10.1145/2500000/2491876/p279-alexopoulos.pdf?ip=205.175.118.16&amp;id=2491876&amp;acc=ACTIVE%20SERVICE&amp;key=B63ACEF81C6334F5%2EF43F328D6C8418D0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&amp;CFID=800955471&amp;CFTOKEN=82372333&amp;\_\_acm\_\_=1503529739\_98f2160b4cb87f5768abcc6e030da2dd](http://delivery.acm.org/10.1145/2500000/2491876/p279-alexopoulos.pdf?ip=205.175.118.16&amp;id=2491876&amp;acc=ACTIVE%20SERVICE&amp;key=B63ACEF81C6334F5%2EF43F328D6C8418D0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&amp;CFID=800955471&amp;CFTOKEN=82372333&amp;__acm__=1503529739_98f2160b4cb87f5768abcc6e030da2dd)
-- Analysis of Greek open data sources across government levels (not clear if they provide a list or breakdown of the sources??)
+- Analysis of Greek open data sources across government levels (unclear if a list or breakdown of the OGD sources are provided within the text)
 - Note significant variation in licensing - majority (~40%) have no licensing information, some use standardized licenses, others use customized license/terms of use
 
 Attard, J., Orlandi, F., Scerri, S., &amp; Auer, S. (2015). A systematic review of open government data initiatives. _Government Information Quarterly 32_(4), 399-418.
