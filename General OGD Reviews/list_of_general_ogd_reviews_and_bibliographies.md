@@ -34,6 +34,13 @@
 
 ***Review Articles:***
 
+**Daneels, L., Viane, S., & Van den Burgh, J. (2017). Open data platforms: Discussing alternative knowledge epistemologies. Government Information Quarterly, in press.**
+[http://www.sciencedirect.com.offcampus.lib.washington.edu/science/article/pii/S0740624X17301508#bb0115](http://www.sciencedirect.com.offcampus.lib.washington.edu/science/article/pii/S0740624X17301508#bb0115)
+
+* Focus - categorization of OGD portals by "platform type" using knowledge epistemologies, including literature review of case studies conducted on specific OGD portals
+
+* Abstract - "Although vast amounts of data have been opened by several levels of government around the world and high hopes continue to be expressed with respect to open data's potential for innovation, whether open government data (OGD) will live up to expectations is still questioned. Up to now, the OGD literature has focused mostly on the technical side of open data, with little focus on network aspects. We argue that a definition of what an OGD platform is, and what is within its scope, is lacking. In this exploratory article, we use three knowledge epistemologies – cognitivist, connectionist, and autopoietic – as a lens to examine OGD platforms and to define three different platform types. To validate and further enrich the platform types and to identify which types are most prevalent in case study research and which are underrepresented, we performed a literature review of case studies on OGD platforms published in the main e-government outlets between 2009 and 2016. Looking for elements of each OGD platform type in the case study literature resulted in a pressing question for more empirical research focusing on the network aspects of OGD platforms. We also highlighted the underrepresentation of the autopoietic OGD platform type in case study research. We conclude this article by providing a research agenda for OGD platforms."
+
 **Tran, E. & Scholtes G. Open Data Literature Review. University of California, Berkeley School of Law.**
 
 [https://www.law.berkeley.edu/wp-content/uploads/2015/04/Final\_OpenDataLitReview\_2015-04-14\_1.1.pdf](https://www.law.berkeley.edu/wp-content/uploads/2015/04/Final_OpenDataLitReview_2015-04-14_1.1.pdf)
