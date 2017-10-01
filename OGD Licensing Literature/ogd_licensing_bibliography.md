@@ -85,7 +85,14 @@ Scassa, T. &amp; Diebel A. (2016). Open or Closed? Open Licensing of Real-time P
 Zuiderwijk, T. &amp; Janssen, M. (2014). Open data policies, their implementation and impact: A framework for comparison.  _Government Information Quarterly, 31_(1), 17-29.
 
 - [http://www.sciencedirect.com/science/article/pii/S0740624X13001202](http://www.sciencedirect.com/science/article/pii/S0740624X13001202)
-- [**ADD**]
+- Proposes a framework by which to compare open data policies and applies it to policies within Dutch national government entities (i.e. national vs. ministerial vs. agency not national vs. sub-national/local)
+- “Currently there is a multiplicity of open data policies at various levels of government, whereas very little systematic and structured research has been done on the issues that are covered by open data policies, their intent and actual impact.”
+- “Although federal United States and European Union open data policies have gained considerable attention, the policies at lower levels have largely been neglected…”
+- Note that policy can often emerge without explicit decision-making (i.e. failure to act) - important to look at what isn’t publicized or touted as an official ‘policy’ too
+- “Moreover, the attitude towards openness influences the open data policy, as organizations that develop an open data policy but mainly focus on the risks of becoming open remain more closed in their open data policy than the organizations that develop an open data policy because they aim to become more open.”
+- Compare licensing policies across the entities studied - national government uses 7 different licenses for OD, although primarily designate data as ‘public domain; one ministry uses one specific license type; other ministries/agencies either do not apply licenses to OD or licensing policy is unclear
+- “Yet there seems to be a large gap between the key objectives of the open data policies which reflect the ambitions of politicians, on the one hand, and, on the other hand, the realities of public servants working for the government organizations.”
+- Authors suggest that one way OGD policy-making could be improved is through greater alignment of licenses, both within and between organizations
 
 **Other Items Discussing OGD Licensing:**
 
