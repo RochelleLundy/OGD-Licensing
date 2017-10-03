@@ -35,6 +35,13 @@ Dulong de Rosnay, M. &amp; Janssen, K. (2014). Legal and institutional challenge
 - Question whether there is ever a need for country-specific licensing - reference as &#39;vanity&#39; licenses - and whether these are driven by exaggerated concerns about need to disclaim liability for illegal or otherwise inappropriate data use by end-users
 - References include studies of CC &amp; other license interoperability issues
 
+Hjalmarsson, A., Johansson, N., & Rudmark, D. (2015, January). Mind the gap: exploring stakeholders' value with open data assessment. In System Sciences (HICSS), 2015 48th Hawaii International Conference on (pp. 1314-1323). IEEE.
+
+- [https://pdfs.semanticscholar.org/2a87/de3fa6364ab4d9e7fc773716ab77ea2ad8c2.pdf](https://pdfs.semanticscholar.org/2a87/de3fa6364ab4d9e7fc773716ab77ea2ad8c2.pdf)
+- Explores systematic assessment of open data by stakeholders as a tool for improving open data services and portals
+- Proposes "Licenses Terms" as one aspect of open data assessment - "Advocates of open data often argue for liberal terms-of-use (e.g. OKFN [26]); however, organizational considerations (e.g. using data in direct conflict with organizational goals), legal constraints (e.g. storage and processing of personal data) or public/private partnership regulations may not allow such permissive license terms. To this end, the model includes a number of generic licensing issues (commercial restrictions, attribution restrictions, usage restrictions, access restrictions) to help raise organizational awareness of the license situation for each data source and how license terms may hamper open data service development"
+- Cite other studies (Janssen, Charalabidis, & Zuiderwijk (2012),  Zuiderwijk & Janssen (2014), and Lindman (2014) for proposition that "license restrictions hamper usage" but provide no discussion of why or how this may occur
+
 Khayyat, M. &amp; Bannister F. (2015). Open Data Licensing - More than meets the Eye. _Information Polity, 20_(4), 231-252.
 
 - [https://www.researchgate.net/profile/Mashael\_Khayyat/publication/276274546\_Open\_Data\_Licensing\_More\_than\_meets\_the\_eye/links/55549bcc08ae6943a8709492.pdf](https://www.researchgate.net/profile/Mashael_Khayyat/publication/276274546_Open_Data_Licensing_More_than_meets_the_eye/links/55549bcc08ae6943a8709492.pdf)
@@ -51,6 +58,12 @@ Lee, Jyh-An, Licensing Open Government Data (2017). _Hastings Business Law Journ
 - Notes that licenses are often contradicted by terms of use - example of FDA terms of use, which offers CC0 data but imposes an attribution requirement in terms of use
 - Extensive discussion of underlying IP rights in data and potential effect of licensing data in which there may not be underlying ownership
 - Analyzes potential reasons for frequent imposition of attribution requirement, indicating that there is no underlying &#39;moral rights&#39;-style reason for it, but that it makes sense in light of the transparency and accountability goals of many OGD programs
+
+Lindman, J. (2014). Similarities of open data and open source: Impacts on business. Journal of theoretical and applied electronic commerce research, 9(3), 46-70.
+- [http://www.scielo.cl/scielo.php?pid=S0718-18762014000300006&script=sci_arttext&tlng=en](http://www.scielo.cl/scielo.php?pid=S0718-18762014000300006&script=sci_arttext&tlng=en)
+- Compares perceptions of open data and open source software, with particular emphasis on effect on for-profit usage, from the perspective of business-people and entrepreneurs
+- "Openness in this context can have three different elements: technical openness (interfaces and standards), legal openness (concerning copyright, open licenses, and other issues), and commercial openness (that commercial usage is possible)"
+- "The open source situation was a bit clearer because of the wide use of and interest in open source licenses that govern what developers and users can and cannot do with the software....The situation for open data was not yet so mature. National legislation was more diverse in different countries—a consideration for those services that were expecting an international user base. Data publishers also often had different conditions for the release and maintenance of data. The legal relations were in many cases far from clear and also interwoven with the question of who should fund the openly available data maintenance and service development. The respondents agreed that when states provided material to increase transparency and citizen oversight the usage of governmental data was quite straightforward. However, when governments produced datasets that private actors used free of charge to create services and build their businesses, the situation was seen as much more volatile."
 
 Mockus, M. &amp; Palmirani, M. (2015). Open Government Data Licensing Framework. In Electronic Government and the Information Systems Perspective - 4th International Conference, EGOVIS 2015, Valencia, Spain, September 1-3, 2015, Proceedings, 9265, 287 - 301.
 
