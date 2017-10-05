@@ -120,13 +120,6 @@ Boston review of licensing practices:
 
 - [https://sunlightfoundation.com/2017/06/02/how-an-open-license-can-encourage-use-of-open-data/](https://sunlightfoundation.com/2017/06/02/how-an-open-license-can-encourage-use-of-open-data/)
 
-Terms of Use/Service Examples:
-
-- [https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/](https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/)
-  - &quot;By using data made available through this site the user agrees to all the conditions stated in the following paragraphs as well as the terms and conditions described under the [City of Seattle homepage](http://seattle.gov/).&quot;  [link doesn&#39;t take you directly to T&amp;C - just to city homepage; no obvious link to T&amp;C page from main menu]
-  - &quot;Applications using data supplied by this site must include the following disclaimers on their sites:  [length disclaimer re accuracy of information]&quot;
-- [**ADD**]
-
 Sunlight Foundation Open Data Law/Policy Comparison Spreadsheet:
 
 - [https://docs.google.com/spreadsheets/d/1\_0Dm9cmooFAPZCM-LebLX343Ktejciiwn803suM8jS0/edit#gid=0](https://docs.google.com/spreadsheets/d/1_0Dm9cmooFAPZCM-LebLX343Ktejciiwn803suM8jS0/edit#gid=0)
@@ -159,21 +152,6 @@ Ubaldi, B. (2013). _Open Government Data: Towards Empirical Analysis of Open Gov
 
 -  Observes that minimal empirical work has been done on OGD generally and attempts to establish a framework for empirical analysis
 
-Lists of US City Open Data Portals:
-
-- Sunlight Foundation - [https://github.com/sunlightpolicy/opendata/blob/master/USlocalopendataportals.csv](https://github.com/sunlightpolicy/opendata/blob/master/USlocalopendataportals.csv)  (\*\*includes county and other local portals)
-- Forbes magazine list - [https://www.forbes.com/sites/metabrown/2017/06/30/quick-links-to-municipal-open-data-portals-for-85-us-cities/#2695b6a82290](https://www.forbes.com/sites/metabrown/2017/06/30/quick-links-to-municipal-open-data-portals-for-85-us-cities/#2695b6a82290)
-- Data.gov list of city data publishers - [https://catalog.data.gov/dataset?organization\_type=City+Government#sec-organization](https://catalog.data.gov/dataset?organization_type=City+Government#sec-organization)
-
-Canadian City Open Data Portals &amp; Licensing:
-
-- [https://publicsectordigest.com/2016-open-cities-index-top-20-results](https://publicsectordigest.com/2016-open-cities-index-top-20-results)
-- [http://www.opennorth.ca/2012/09/19/lessons-from-represent-licenses.html](http://www.opennorth.ca/2012/09/19/lessons-from-represent-licenses.html)  (brief discussion of licensing in Canadian data portals)
-- Custom licenses at national, provincial &amp; municipal levels
-
-Custom License Proliferation:
-
-- [https://theodi.org/blog/the-proliferation-of-open-government-licences](https://theodi.org/blog/the-proliferation-of-open-government-licences)
 
 RDA Report on Legal Interoperability of Research Data:
 
