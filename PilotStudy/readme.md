@@ -1,3 +1,5 @@
+### Pilot Study - OGD Licensing Data ###
+
 **Goal**: Gather licensing data across three cities for open government datasets from a single sector in order to evaluate sampling strategy and research questions for broader study.  Draw data only from cities using Socrata platforms for pilot study given ease of obtaining data via API.
 
 **Steps** :
